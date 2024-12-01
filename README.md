@@ -1,5 +1,6 @@
 ## Hi there 👋
 I can't help much because I´m just starting 🙏, but I hope to be able to do it in a short time 💪😃
+This repository is part of my Python learning journey. I'm new to programming and sharing my progress as I grow.
 <!--
 **x508/x508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
